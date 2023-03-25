@@ -20,7 +20,7 @@ from pandas.core.frame import DataFrame
 
 # load csv file
 
-datacsv = pd.read_csv('/Users/kloe/Desktop/Middle Office Analyst Test data file.csv',index_col=False)
+datacsv = pd.read_csv('/Users/kloe/Desktop/data file.csv',index_col=False)
 
 
 
